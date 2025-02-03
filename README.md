@@ -1,6 +1,6 @@
 # RefineThenCalibrate-Theory
 
-Code to run the high-dimensional asymptotic simulations for regularized logistic regression in the paper "Rethinking Early Stopping: Refine, Then Calibrate".
+Code to run the high-dimensional asymptotic simulations for regularized logistic regression in the paper "Rethinking Early Stopping: Refine, Then Calibrate" https://arxiv.org/abs/2501.19195.
 
 ## Files
 - `utils.py`: Contains our solver for the non-linear system describing the weight vector of regularized-logistic regression, for our mathematical model of the spectral distribution, and functions to compute the resulting calibration and refinement errors.
